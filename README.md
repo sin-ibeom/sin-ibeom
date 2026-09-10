@@ -66,3 +66,6 @@ Java를 공부하며 작성한 코드를 모아 둔 학습 저장소입니다.
 <p align="center">
   <sub>신이범 &nbsp; / &nbsp; <a href="https://dev-cat.kr">dev-cat.kr</a> &nbsp; / &nbsp; <a href="mailto:support@dev-cat.kr">support@dev-cat.kr</a></sub>
 </p>
+
+
+made by GPT-6 Astra
