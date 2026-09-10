@@ -39,25 +39,20 @@
 
 <br>
 
-## Selected projects
+## GitHub stats
 
-### [AI Contract Analyzer ↗](https://github.com/sin-ibeom/ai-contract-analyzer)
+<p align="center">
+  <a href="https://github.com/sin-ibeom?tab=overview">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=sin-ibeom&show_icons=true&bg_color=0d1117&title_color=93c5fd&text_color=c9d1d9&icon_color=60a5fa&border_color=30363d" alt="GitHub 활동 통계와 활동 등급: 스타, 커밋, PR, 이슈, 기여 저장소" />
+  </a>
+  <a href="https://github.com/sin-ibeom?tab=repositories">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=sin-ibeom&layout=compact&bg_color=0d1117&title_color=93c5fd&text_color=c9d1d9&border_color=30363d" alt="공개 저장소의 사용 언어 비율" />
+  </a>
+</p>
 
-계약서의 독소 조항과 위험도를 분석하고, 협상 포인트를 제안하는 Android 앱입니다.
-
-`Java` `Android` `AI`
-
-### [Discord Auto Role ↗](https://github.com/sin-ibeom/Discord-Auto-Online-Offline-role)
-
-디스코드 사용자의 온라인·오프라인 상태에 따라 역할을 자동으로 부여하는 봇입니다.
-
-`Python` `Discord` `Automation`
-
-### [Study ↗](https://github.com/sin-ibeom/Study)
-
-Java를 공부하며 작성한 코드를 모아 둔 학습 저장소입니다.
-
-`Java` `Learning`
+<p align="center">
+  <sub>공개 GitHub 활동 기반 통계 · 등급은 활동 지표이며, 언어 비율은 저장소 코드량 기준입니다.</sub>
+</p>
 
 <br>
 
@@ -66,6 +61,3 @@ Java를 공부하며 작성한 코드를 모아 둔 학습 저장소입니다.
 <p align="center">
   <sub>신이범 &nbsp; / &nbsp; <a href="https://dev-cat.kr">dev-cat.kr</a> &nbsp; / &nbsp; <a href="mailto:support@dev-cat.kr">support@dev-cat.kr</a></sub>
 </p>
-
-
-made by GPT-6 Astra
