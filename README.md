@@ -1,92 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=sin-ibeom&fontSize=60&fontColor=00ff9f&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Self-Hosted%20Infra&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1e3a5f&height=170&text=sin-ibeom&fontSize=44&fontColor=f8fafc&fontAlignY=43&desc=BACKEND%20%C2%B7%20ANDROID%20%C2%B7%20SELF-HOSTED%20INFRA&descSize=12&descAlignY=66&descColor=93c5fd" alt="sin-ibeom — Backend, Android & Self-Hosted Infra" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Java+%2F+C+%2F+Python+%2F+HTML+%2F+CSS;Studying+Android+Studio;Self-Hosted+Infra+%26+Game+Server+Ops;dev-cat.kr" />
+### 안녕하세요, 신이범입니다.
 
-</div>
+백엔드와 인프라에 관심을 두고, Android 앱을 만들며 배우는 학생 개발자입니다.
 
-<br>
-
-## 🧑‍💻 About Me
-
-```yaml
-name: 신이범
-school: 경기오산소프트웨어고등학교
-role: Student Developer
-learning: [Android Studio]
-domain: dev-cat.kr
-```
-
-<br>
-
-## 🛠️ Tech Stack
-
-<div align="left">
-
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-**Database**
-<br>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-**Framework & Tools**
-<br>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-
-**Infra**
-<br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<a href="https://dev-cat.kr">Website ↗</a> &nbsp; · &nbsp; <a href="mailto:support@dev-cat.kr">Email ↗</a> &nbsp; · &nbsp; <a href="https://github.com/sin-ibeom?tab=repositories">Repositories ↗</a>
 
 </div>
 
 <br>
 
-## 📊 GitHub Stats
+## About
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sin-ibeom&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sin-ibeom&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=c9d1d9" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sin-ibeom&theme=synthwave&hide_border=true&background=0d1117&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f" />
-
-</div>
+- **Education** &nbsp; 경기오산소프트웨어고등학교
+- **Learning** &nbsp; Java 기반 Android 앱 개발
+- **Interests** &nbsp; 백엔드 개발 · 셀프 호스팅 · 게임 서버 운영
 
 <br>
 
-## 📌 Repositories
+## Tech stack
 
-| Repo | Language | 설명 |
-|---|---|---|
-| [ai-contract-analyzer](https://github.com/sin-ibeom/ai-contract-analyzer) | Java | AI로 계약서를 분석, 독소 조항·위험도(%)를 시각화하고 협상 포인트를 추천하는 안드로이드 앱 |
-| [Discord-Auto-Online-Offline-role](https://github.com/sin-ibeom/Discord-Auto-Online-Offline-role) | Python | 디스코드 온/오프라인 자동 역할 부여 봇 |
-| [Study](https://github.com/sin-ibeom/Study) | Java | 학습용 저장소 |
+<p>
+  <img src="https://img.shields.io/badge/Java-334155?style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=93c5fd" alt="Python" />
+  <img src="https://img.shields.io/badge/C-334155?style=flat-square&logo=c&logoColor=93c5fd" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-334155?style=flat-square&logo=html5&logoColor=93c5fd" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-334155?style=flat-square" alt="CSS3" />
+</p>
+
+| Area | Technologies |
+| :--- | :--- |
+| App & Backend | Android Studio · Flask |
+| Database | MySQL · Oracle |
+| Infrastructure | Linux · Proxmox · Cloudflare · WireGuard |
+| Community | Discord |
 
 <br>
 
-## 📫 Contact
+## Selected projects
 
-<div align="left">
-<a href="https://dev-cat.kr"><img src="https://img.shields.io/badge/dev--cat.kr-0f0f0f?style=for-the-badge&logo=googlechrome&logoColor=00ff9f" /></a>
-</div>
+### [AI Contract Analyzer ↗](https://github.com/sin-ibeom/ai-contract-analyzer)
+
+계약서의 독소 조항과 위험도를 분석하고, 협상 포인트를 제안하는 Android 앱입니다.
+
+`Java` `Android` `AI`
+
+### [Discord Auto Role ↗](https://github.com/sin-ibeom/Discord-Auto-Online-Offline-role)
+
+디스코드 사용자의 온라인·오프라인 상태에 따라 역할을 자동으로 부여하는 봇입니다.
+
+`Python` `Discord` `Automation`
+
+### [Study ↗](https://github.com/sin-ibeom/Study)
+
+Java를 공부하며 작성한 코드를 모아 둔 학습 저장소입니다.
+
+`Java` `Learning`
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" />
-</div>
+---
+
+<p align="center">
+  <sub>신이범 &nbsp; / &nbsp; <a href="https://dev-cat.kr">dev-cat.kr</a> &nbsp; / &nbsp; <a href="mailto:support@dev-cat.kr">support@dev-cat.kr</a></sub>
+</p>
