@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://github.com/sin-ibeom?tab=overview">
-    <img height="180" src="https://raw.githubusercontent.com/sin-ibeom/sin-ibeom/main/profile/stats.svg?v=ef6e88c685f8394f" alt="GitHub 활동 통계와 활동 등급: 스타, 커밋, PR, 이슈, 기여 저장소" />
+    <img height="180" src="https://raw.githubusercontent.com/sin-ibeom/sin-ibeom/main/profile/stats.svg?v=3147f6e161ae2eb2" alt="GitHub 활동 통계와 활동 등급: 스타, 커밋, PR, 이슈, 기여 저장소" />
   </a>
   <a href="https://github.com/sin-ibeom?tab=repositories">
     <img height="180" src="https://raw.githubusercontent.com/sin-ibeom/sin-ibeom/main/profile/top-langs.svg?v=4a61f1463d711161" alt="공개 저장소의 사용 언어 비율" />
